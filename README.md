@@ -6,7 +6,7 @@ key things done to analyse the popularity of different programming languages ove
 
 1. Visualised data and create charts with Matplotlib
 
-2. Pivoted, grouped and manipulated the data with Pandas to get it into the format you want
+2. Pivoted, grouped and manipulated the data with Pandas to get it into a certain format 
 
 3. Work with timestamps and time-series data
 
