@@ -1,17 +1,17 @@
-# Lego_data_analysis
-I have analyzed Lego data set with the help of pandas and matpltlib
+# Programming_languages_data_analysis
 
-Here are the few things that I have analyzed in my google collaboratory:
+I have analyzed stack overflow data set on Programming Language with the help of pandas and matpltlib
 
-1.What was the largest LEGO set ever made, and how many pieces did it contain?
+key things done to analyse the popularity of different programming languages over time in this project are:
 
-2.How did the LEGO corporation get its start? How many LEGO sets were sold when the company initially began, and what year were the first LEGO sets released?
+1. Visualised data and create charts with Matplotlib
 
-3.The most sets are found in which LEGO theme? Is it one of LEGO's original themes, like as Ninjago, or a licenced one, such as Harry Potter or Marvel Superheroes?
+2. Pivoted, grouped and manipulated the data with Pandas to get it into the format you want
 
-4.When did the LEGO Corporation actually broaden the range of its products? Based on how many themes and sets the company issued year over year, can we detect a change in its business strategy?
+3. Work with timestamps and time-series data
 
-5.Has the size and complexity of LEGO kits increased over time? Are there more or fewer parts in older LEGO sets than in modern sets on average?
+4. Styled and customised a line chart 
 
-Data source:
-https://rebrickable.com/downloads/
+
+
+
